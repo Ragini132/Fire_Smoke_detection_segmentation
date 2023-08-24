@@ -1,0 +1,5 @@
+Evaluation metrics:
+Accuracy curve
+Precision curve
+confusion metrix 
+F1 curve
